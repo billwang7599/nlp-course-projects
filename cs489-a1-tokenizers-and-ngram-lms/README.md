@@ -28,10 +28,3 @@ other (`bpe.py` is shared by parts 1 to 3).
 
 `data.py`, `part2_transformer_lm.py`, `part2_train.py`, `part2_eval_bpc.py` and `part3_artifacts.py` are the
 unmodified starter files from the course, so they are not in this repo. Put them in this folder to run parts 2 and 3.
-
-## AI assistance
-
-Claude Code helped me learn the material and write much of the code. I wrote the `TextCleaner` class and pipeline
-idea, `encode` and `decode` in `bpe.py`, and the first version of `count_ngrams` myself, and Claude reviewed and
-fixed bugs in them. I wrote my analysis in my own words, and Claude helped draft it into clearer text, as the
-write-up declares.

@@ -13,11 +13,6 @@ My assignments from **CS 489: Introduction to Natural Language Processing** (Uni
 
 Each project has its own README, and a README for each part with its files, how to run it, and results.
 
-## AI assistance
-
-I used Claude Code (Anthropic) on both assignments, as declared in each write-up: to explain concepts and libraries,
-and to help write code. The per-project READMEs say what I wrote myself and what Claude wrote.
-
 ## Not included
 
 Assignment handouts, course-provided starter files (such as `evaluator.py`), datasets, checkpoints and logs.

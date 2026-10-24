@@ -44,9 +44,3 @@ To log to W&B online, put your own key in your shell only: `export WANDB_API_KEY
 
 `evaluator.py` (the dev-perplexity evaluator and the 258-token constants) is provided by the course. Put it in this
 folder to run the code.
-
-## AI assistance
-
-Claude Code explained PyTorch concepts and APIs. I wrote the LSTM (`model.py`) myself and designed the Transformer
-(token plus learned position embeddings, a causal self-attention stack, a linear output layer). Claude wrote the
-Transformer module to match, and wrote the data pipeline, training scripts, loader, sweep script and this README.
