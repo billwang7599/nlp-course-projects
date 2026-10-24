@@ -1,0 +1,13 @@
+[project]
+name = "cs489-a2"
+version = "0.1.0"
+description = "CS 489 Assignment 2: Training Neural Language Models"
+requires-python = "==3.11.*"
+dependencies = [
+    "datasets>=5.1.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "pyyaml>=6.0.3",
+    "torch>=2.14.1",
+    "wandb",
+]
